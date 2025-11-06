@@ -1,7 +1,7 @@
-Do 
-backend termial 
-pip install django
-pip install restframework
+
+backend terminal 
+pip install django,
+pip install restframework,
 pip install django-cors-headers
 
 run backend= python manage.py runserver
